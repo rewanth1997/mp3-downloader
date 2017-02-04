@@ -5,16 +5,18 @@ Download any audio file just by giving its name as an argument.
 
 
 Instructions to run :<br>
-For example, I want to download the audio file of "closer" song.Execute the following command in your terminal.
+For example, I want to download the audio file of "closer" song.<br>Execute the following command in your terminal.
 
 
 `python code.py "closer"`
 
-Univeral command
-`python code.py "$NAME-OF-THE-SONG"`
+Generic command - 
 
 
-One....Two....Three....Boom!!<br>
+`python code.py "$NAME-OF-THE-SONG-TO-BE-DOWNLOADED"`
+
+
+One....  Two....    Three....      Boom!!!<br>
 A downloads folder will be created inside the current directory and the audio file can be found there.
 
 MIT Licensed<br>
